@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pandas
+numpy
+torch
+huggingface-hub
+python-multipart
+websocket
+redis
+plotly
+scikit-learn
+python-dotenv
+pytest
