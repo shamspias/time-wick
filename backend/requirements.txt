@@ -12,4 +12,3 @@ redis
 plotly
 scikit-learn
 python-dotenv
-pytest
