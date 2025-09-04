@@ -5,5 +5,7 @@ black
 isort
 pylint
 mypy
-httpx=
-faker=
+httpx
+faker
+flake8
+autopep8
