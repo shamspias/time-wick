@@ -1,4 +1,4 @@
-# TimeWick - A Kronos Financial Prediction Platform
+# TimeWick - Financial Prediction Platform
 
 AI-powered K-line (candlestick) forecasting with a FastAPI backend and a modern React + Vite frontend—integrated with
 the **Kronos** time-series foundation models from NeoQuasar.
